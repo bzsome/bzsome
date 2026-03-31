@@ -4,6 +4,6 @@
 
 如果我的项目对你有帮助，欢迎小额赞赏，让我能持续更新、修复问题、产出更多好用工具。
 
-|                    微信收款码                    |                     微信赞赏码                     |                   支付宝收钱码                   |
-|:-------------------------------------------:|:---------------------------------------------:|:------------------------------------------:|
-| ![WeChat Pay QR](images/wechat_rayment.png) | ![WeChat Reward QR](images/wechat_reward.png) | ![Alipay QR](images/alipay_collection.png) |
+|          微信赞赏码          |          微信收款码          |          支付宝收钱码          |
+|:---------------------------:|:---------------------------:|:-----------------------------:|
+| <img src="images/wechat_reward_34.jpg" width="200" /> | <img src="images/wechat_rayment_34.jpg" width="200" /> | <img src="images/alipay_collection_34.jpg" width="200" /> |
