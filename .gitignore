@@ -1,0 +1,13 @@
+.idea
+*.iml
+target/
+*.exe
+**/.settings/**
+*.classpath
+*.project
+**/dist/**
+**/node_modules/**
+**/.idea/**
+**.log
+**.factorypath
+package-lock.json
